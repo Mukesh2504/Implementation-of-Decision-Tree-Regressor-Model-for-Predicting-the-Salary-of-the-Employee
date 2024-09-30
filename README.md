@@ -72,7 +72,7 @@ plt.show()
 ```
 
 ## Output:
-![372048818-19d466c5-544e-439b-984d-e02fd255e6d6](https://github.com/user-attachments/assets/7d84784f-8caf-4529-808e-44a0961e7047)
+![Screenshot 2024-09-30 165757](https://github.com/user-attachments/assets/c62502b6-4847-4277-978e-ca8b7a72530a)
 
 
 
